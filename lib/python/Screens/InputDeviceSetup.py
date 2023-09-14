@@ -282,6 +282,7 @@ class RemoteControlType(ConfigListScreen, Screen):
 	rcList = [
 			("0", _("Default")),
 			("4", _("DMM normal")),
+		        ("8", _("vuzero4k")),
 			("5", _("et9000/et9100")),
 			("6", _("DMM advanced")),
 			("7", _("et5000/et6000")),
