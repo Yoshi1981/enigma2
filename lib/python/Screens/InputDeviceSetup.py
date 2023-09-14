@@ -304,6 +304,8 @@ class RemoteControlType(ConfigListScreen, Screen):
 
 	defaultRcList = [
 			("et4000", 13),
+		        ("VU+", 8),
+		        ("vuzero4k", 8),
 			("et5000", 7),
 			("et6000", 7),
 			("et6500", 11),
